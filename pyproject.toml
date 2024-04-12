@@ -1,9 +1,9 @@
 [tool.poetry]
-name = "python-web-hw10"
+name = "python-web-hw13.2"
 version = "0.1.0"
 description = ""
 authors = ["Val <yermakvaleriy@gmail.com>"]
-readme = "README.md"
+
 
 [tool.poetry.dependencies]
 python = "^3.11"
